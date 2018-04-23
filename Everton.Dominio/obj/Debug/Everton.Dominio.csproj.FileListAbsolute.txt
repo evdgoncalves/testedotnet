@@ -1,0 +1,14 @@
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\bin\Debug\Everton.Dominio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\bin\Debug\Everton.Dominio.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\bin\Debug\Everton.Helpers.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\bin\Debug\Everton.Helpers.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\obj\Debug\Everton.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\obj\Debug\Everton.Dominio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\obj\Debug\Everton.Dominio.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\Everton.Dominio\bin\Debug\Everton.Dominio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\Everton.Dominio\bin\Debug\Everton.Dominio.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\Everton.Dominio\bin\Debug\Everton.Helpers.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\Everton.Dominio\bin\Debug\Everton.Helpers.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\Everton.Dominio\obj\Debug\Everton.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\Everton.Dominio\obj\Debug\Everton.Dominio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\Everton.Dominio\obj\Debug\Everton.Dominio.pdb

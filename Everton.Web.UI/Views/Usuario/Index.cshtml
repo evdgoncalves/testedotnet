@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Everton.Dominio.Entidade.Usuario>
+
+@{
+    ViewBag.Title = "Usuário";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Usuário</h2>
+
+<p>
+    @Html.ActionLink("Criar Novo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Nome
+        </th>
+        <th>
+            CPF
+        </th>
+        <th>
+            E-mail
+        </th>
+        <th>
+            Login
+        </th>
+
+        <th>
+            Data de Inclusão
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomeUsuario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cpf)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Login)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataInclusao)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.IdUsuario }) |
+            @Html.ActionLink("Visualizar", "Details", new { id=item.IdUsuario }) |
+            @Html.ActionLink("Deletar", "Delete", new { id=item.IdUsuario })
+        </td>
+    </tr>
+}
+
+</table>

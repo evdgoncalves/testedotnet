@@ -1,0 +1,7 @@
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\bin\Debug\CTASoftware.Dominio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\bin\Debug\CTASoftware.Dominio.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\bin\Debug\CTASoftware.Helpers.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\bin\Debug\CTASoftware.Helpers.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\obj\Debug\CTASoftware.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\obj\Debug\CTASoftware.Dominio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Dominio\obj\Debug\CTASoftware.Dominio.pdb

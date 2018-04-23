@@ -1,0 +1,13 @@
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\CTASoftware.Negocio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\CTASoftware.Negocio.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\CTASoftware.Dominio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\CTASoftware.Helpers.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\CTASoftware.Repositorio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\CTASoftware.Dominio.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\CTASoftware.Helpers.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\CTASoftware.Repositorio.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\obj\Debug\CTASoftware.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\obj\Debug\CTASoftware.Negocio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Negocio\obj\Debug\CTASoftware.Negocio.pdb

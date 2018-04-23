@@ -1,0 +1,14 @@
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\CTASoftware.Repositorio.dll.config
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\CTASoftware.Repositorio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\CTASoftware.Repositorio.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\CTASoftware.Dominio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\CTASoftware.Helpers.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\CTASoftware.Dominio.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\bin\Debug\CTASoftware.Helpers.pdb
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\obj\Debug\CTASoftware.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\obj\Debug\CTASoftware.Repositorio.dll
+C:\Users\lsbarbosa\Desktop\CTAMedicine\CTAMedicine\CTASoftware.Repositorio\obj\Debug\CTASoftware.Repositorio.pdb
